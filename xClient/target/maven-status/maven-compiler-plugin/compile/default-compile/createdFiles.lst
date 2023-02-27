@@ -1,0 +1,14 @@
+com\mycompany\xclient\XClient.class
+requests\StringRequest.class
+requests\ContainsListRequest.class
+requests\ContainsRequest.class
+requests\OrderRequest.class
+requests\ArticlesListRequest.class
+requests\ArticleRequest.class
+requests\CitiesListRequest.class
+requests\UsersListRequest.class
+requests\OrdersListRequest.class
+requests\CityRequest.class
+resources\TestClass.class
+requests\Request.class
+requests\UserRequest.class
