@@ -15,3 +15,9 @@ A list of concepts implemented within the project:
 * REST API
 * Using JAX-RS library for generating HTTP requests
 * ORM usage
+
+### Other Info
+***
+
+* dumpdb folder contains sql dump files which you can import in MySql
+* uml folder contains class diagrams for project design
